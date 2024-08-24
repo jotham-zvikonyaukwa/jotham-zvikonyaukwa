@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jzvikonyaukwa&label=Profile%20views&color=0e75b6&style=flat" alt="jzvikonyaukwa" /> </p>
 
 <h3 align="center" style ="font-family:monospace,serif">Guiding the landscape of technology as a Software Engineer and avid DevOps enthusiast, I am a community-centric individual driven by a passion for knowledge dissemination and intrinsic problem-solving. Beyond the intricacies of code, my written narratives peel back the layers of my tech odyssey, beckoning others to immerse themselves in the ever-evolving saga of innovation and perpetual learning.</h3>
-<img align="right" alt="Coding" width ="400" src ="[https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
+<img align="right" alt="Coding" width ="400" src ="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
 
 - 🔭 I’m currently working on **Scaling Java Application**
