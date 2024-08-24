@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋🏿, I'm Jotham Zvikonyaukwa</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jzvikonyaukwa&label=Profile%20views&color=0e75b6&style=flat" alt="jzvikonyaukwa" /> </p>
 
-<h3 align="center" style ="font-family:monospace,serif">Guiding the landscape of technology as a Software Engineer and avid DevOps enthusiast, I am a community-centric individual driven by a passion for knowledge dissemination and intrinsic problem-solving. Beyond the intricacies of code, my written narratives peel back the layers of my tech odyssey, beckoning others to immerse themselves in the ever-evolving saga of innovation and perpetual learning.</h3>
+<h3 align="center" style ="font-family:monospace,serif">As a Software Engineer and DevOps enthusiast, I’m passionate about solving problems and sharing knowledge with others. I’m now exploring Data Science, combining my background in software engineering with the power of data.
+
+In my journey, I’ve always aimed to learn, grow, and help others do the same. Through my work and writing, I invite you to join me in exploring the world of technology and continuous learning.</h3>
 <img align="right" alt="Coding" width ="400" src ="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
